@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -g  -shared -Wl,-soname,libhungarian.so -o libhungarian.so CMakeFiles/hungarian.dir/HungarianAlg/HungarianAlg.cpp.o  -L/usr/local/cuda/lib64  -L/home/cuizhou/projects/KaiKouXiao/sourceCode/cxx_pva_interface/3rdparty/caffe/lib 

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cuizhou/projects/KaiKouXiao/sourceCode/cxx_pva_interface/src/HungarianAlg/HungarianAlg.cpp
+HungarianAlg.h
+/home/cuizhou/projects/KaiKouXiao/sourceCode/cxx_pva_interface/src/HungarianAlg/HungarianAlg.h
+
